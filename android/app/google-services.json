@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "226316122559",
+    "project_id": "drinkinggame-c9f7f",
+    "storage_bucket": "drinkinggame-c9f7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226316122559:android:3a952e47a5d4a12d7c490a",
+        "android_client_info": {
+          "package_name": "com.new_drinking_game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226316122559-u1dtltmselbge5t7ut5lcebvq65ja3ju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWxA5Fpe-E8yysmwEUodAol4q1CQ4oPDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226316122559-u1dtltmselbge5t7ut5lcebvq65ja3ju.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "226316122559-mm5nuho89771nmlj1ao9fcf6nejqgfgp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.drinkinggame"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
